@@ -246,7 +246,7 @@ prose:
           help: "Check to publish post, uncheck to hide."
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-remote-theme
-
+  - jekyll-feed
