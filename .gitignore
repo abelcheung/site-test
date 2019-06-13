@@ -1,0 +1,5 @@
+/_site
+/.sass-cache
+/Gemfile*
+/.jekyll-metadata
+/_config-*.yml
